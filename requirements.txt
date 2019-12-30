@@ -1,0 +1,12 @@
+colorama==0.4.3
+decorator==4.4.1
+EasyProcess==0.2.8
+Pillow==6.2.1
+PyVirtualDisplay==0.2.5
+selenium==3.141.0
+six==1.13.0
+tqdm==4.41.0
+urllib3==1.25.7
+validators==0.14.1
+virtualenv==16.7.9
+webbrowserdownloader==0.1

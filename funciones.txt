@@ -1,0 +1,17 @@
+/stories-by
+/photos-by
+/videos-by
+/groups/intersect
+/events-joined
+/photos-of/intersect
+/videos-of/intersect
+/stories-tagged/intersect
+/photos-commented
+/videos-commented/intersect
+/stories-commented/intersect
+/photos-liked/intersect
+/videos-liked/intersect
+/stories-liked/intersect
+/pages-liked
+/places-visited
+/friends/intersect

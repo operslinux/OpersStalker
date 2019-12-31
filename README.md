@@ -20,7 +20,7 @@ ___  ___  __ __ __      __  _____    __     __  __
 Este era un script muy sencillo que usabamos cuando se podia aun usar graph search para poder stalkear Facebook's lamentablemente
 este metodo ya no se puede hacer pero aun asi queremos dejar guardado esto para recordarlo
 ```
-
+<a href="https://ibb.co/X8JbLpm"><img src="https://i.ibb.co/cLT13tz/ventana1.png" alt="ventana1" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>gif en html</a><br />
 
 # [Instalacion]
 ```

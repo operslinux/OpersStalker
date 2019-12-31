@@ -100,7 +100,7 @@ def MenuSecundario():
 def body():
     try:
         MenuInicial()
-        inicial = int(input(Fore.CYAN + "Elige una opcion\n"))
+        inicial = int(input(Fore.CYAN + "Elige una opcion\n [ Opers Linux ] > "))
 
         print("Usted ha escogido la opcion", inicial)
         if inicial == 1:
@@ -109,13 +109,13 @@ def body():
             try:
                 txt = open("funciones.txt", "r")
                 MenuSecundario()
-                opcion = int(input(Fore.BLUE + "Elige Una opcion\n"))
+                opcion = int(input(Fore.BLUE + "Elige Una opcion\n [ Opers Linux ] > "))
                 #print(opcion)
                 for i,linea in enumerate (txt):
                     if i == opcion:
                         #print("La linea seleccionada es", linea)
                         #print("El numero es",i)
-                        IdVictima = int(input(Fore.MAGENTA + "Coloca el ID DE TU VICTIMA\n"))
+                        IdVictima = int(input(Fore.MAGENTA + "Coloca el ID DE TU VICTIMA\n [ Opers Linux ] > "))
                         url = (facebook + str(IdVictima) + linea)
                         #print(url)
                         webbrowser.open(url, new=2, autoraise=True)
@@ -135,7 +135,7 @@ def body():
         elif inicial == 2:
             LogoOne()
             print(Fore.RESET + "Has accedido a todos los Stalker")
-            IdVictima = int(input(Fore.MAGENTA + "Coloca el ID DE TU VICTIMA\n"))
+            IdVictima = int(input(Fore.MAGENTA + "Coloca el ID DE TU VICTIMA\n [ Opers Linux ] > "))
             #print(IdVictima)
             print("Comenzando proceso en ")
             #print(3)

@@ -32,11 +32,12 @@ $ apt install git python3
 ```
 $ https://github.com/operslinux/StalkerFace.git
 ```
-```
-$ sudo chmod +x stalker4.0.py
-```
+
 ```
 $ cd OpersStalker
+```
+```
+$ sudo chmod +x stalker4.0.py
 ```
 
 # [ Setup ]

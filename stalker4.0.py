@@ -97,7 +97,7 @@ def MenuSecundario():
     print("16 - friends")
     print("17 - salir")
 
-def body():
+def main():
     try:
         MenuInicial()
         inicial = int(input(Fore.CYAN + "Elige una opcion\n [ Opers Linux ] > "))
@@ -197,4 +197,5 @@ def body():
 
 
 
-body()
+if __name__ == '__main__':
+    main()

@@ -12,11 +12,7 @@ init()
 
 facebook = ("https://facebook.com/search/")
 
-def limpiar():
-	if os.name == 'nt':
-		os.system('cls')
-	else:
-		os.system('clear')
+
 
 
 def Carga():
@@ -27,24 +23,25 @@ def Carga():
     loop.close()
 
 def MenuInicial():
+ def MenuInicial():
     os.system('clear')
     LogoCero()
     sleep(0.7)
-    limpiar()
+    os.system('clear')
     sleep(0.3)
     LogoCero()
     sleep(0.3)
-    limpiar()
+    os.system('clear')
     sleep(0.3)
     LogoOne()
     sleep(0.3)
-    limpiar()
+    os.system('clear')
     sleep(0.3)
     LogoCero()
     sleep(1.5)
     sleep(0.60)
     Carga()
-    print(Fore.GREEN + "\t\tBienvenido a Stalker Face\t\t")
+    print(Fore.GREEN + "\t\tBienvenido a Opers Stalker BY OPERS LINUX\t\t")
     print("\t\t__________________________\t\t")
     print("\t\t MENU \t\t")
     print(Fore.YELLOW + "1- Acceder al Script por Opciones Separadas")

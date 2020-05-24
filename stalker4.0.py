@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import webbrowser #lo vamos a usar para abrir el navegador
 import os #leer y escribir archivos
 from time import sleep

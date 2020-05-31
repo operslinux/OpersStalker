@@ -22,6 +22,11 @@ este metodo ya no se puede hacer pero aun asi queremos dejar guardado esto para 
 ```
 <a href="https://ibb.co/X8JbLpm"><img src="https://i.ibb.co/cLT13tz/ventana1.png" alt="ventana1" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>gif en html</a><br />
 
+```
+Kali LInux
+Parrot OS
+```
+
 # [Instalacion]
 ```
 $ apt update && apt upgrade
